@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.073c9b0a.css",
-    "main.js": "/react-gh-pages/static/js/main.aa0d62cd.js",
-    "static/js/787.9962c4ba.chunk.js": "/react-gh-pages/static/js/787.9962c4ba.chunk.js",
-    "static/media/logo.svg": "/react-gh-pages/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/react-gh-pages/index.html",
-    "main.073c9b0a.css.map": "/react-gh-pages/static/css/main.073c9b0a.css.map",
-    "main.aa0d62cd.js.map": "/react-gh-pages/static/js/main.aa0d62cd.js.map",
-    "787.9962c4ba.chunk.js.map": "/react-gh-pages/static/js/787.9962c4ba.chunk.js.map"
+    "main.css": "/datastores-demo-controller/static/css/main.073c9b0a.css",
+    "main.js": "/datastores-demo-controller/static/js/main.8738b32a.js",
+    "static/js/787.9962c4ba.chunk.js": "/datastores-demo-controller/static/js/787.9962c4ba.chunk.js",
+    "static/media/logo.svg": "/datastores-demo-controller/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/datastores-demo-controller/index.html",
+    "main.073c9b0a.css.map": "/datastores-demo-controller/static/css/main.073c9b0a.css.map",
+    "main.8738b32a.js.map": "/datastores-demo-controller/static/js/main.8738b32a.js.map",
+    "787.9962c4ba.chunk.js.map": "/datastores-demo-controller/static/js/787.9962c4ba.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.aa0d62cd.js"
+    "static/js/main.8738b32a.js"
   ]
 }
