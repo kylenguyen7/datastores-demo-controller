@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/datastores-demo-controller/static/css/main.bc1dca3e.css",
-    "main.js": "/datastores-demo-controller/static/js/main.b8f5ab83.js",
+    "main.js": "/datastores-demo-controller/static/js/main.0a5ea760.js",
     "static/js/787.9962c4ba.chunk.js": "/datastores-demo-controller/static/js/787.9962c4ba.chunk.js",
     "index.html": "/datastores-demo-controller/index.html",
     "main.bc1dca3e.css.map": "/datastores-demo-controller/static/css/main.bc1dca3e.css.map",
-    "main.b8f5ab83.js.map": "/datastores-demo-controller/static/js/main.b8f5ab83.js.map",
+    "main.0a5ea760.js.map": "/datastores-demo-controller/static/js/main.0a5ea760.js.map",
     "787.9962c4ba.chunk.js.map": "/datastores-demo-controller/static/js/787.9962c4ba.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bc1dca3e.css",
-    "static/js/main.b8f5ab83.js"
+    "static/js/main.0a5ea760.js"
   ]
 }
