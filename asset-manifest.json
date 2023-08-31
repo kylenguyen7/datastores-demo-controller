@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/datastores-demo-controller/static/css/main.bc1dca3e.css",
-    "main.js": "/datastores-demo-controller/static/js/main.0a5ea760.js",
+    "main.css": "/datastores-demo-controller/static/css/main.df8a4143.css",
+    "main.js": "/datastores-demo-controller/static/js/main.89515d46.js",
     "static/js/787.9962c4ba.chunk.js": "/datastores-demo-controller/static/js/787.9962c4ba.chunk.js",
     "index.html": "/datastores-demo-controller/index.html",
-    "main.bc1dca3e.css.map": "/datastores-demo-controller/static/css/main.bc1dca3e.css.map",
-    "main.0a5ea760.js.map": "/datastores-demo-controller/static/js/main.0a5ea760.js.map",
+    "main.df8a4143.css.map": "/datastores-demo-controller/static/css/main.df8a4143.css.map",
+    "main.89515d46.js.map": "/datastores-demo-controller/static/js/main.89515d46.js.map",
     "787.9962c4ba.chunk.js.map": "/datastores-demo-controller/static/js/787.9962c4ba.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bc1dca3e.css",
-    "static/js/main.0a5ea760.js"
+    "static/css/main.df8a4143.css",
+    "static/js/main.89515d46.js"
   ]
 }
